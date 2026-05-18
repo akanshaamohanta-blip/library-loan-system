@@ -1,0 +1,21 @@
+# Derby database files (auto-created on run, don't push these)
+LibraryDB/
+derby.log
+
+# Compiled class files
+out/
+*.class
+
+# IDE folders
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Derby jar (too large, user downloads separately)
+lib/derby.jar
